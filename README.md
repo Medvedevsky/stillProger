@@ -7,6 +7,7 @@
 - :hammer_and_pick: C# / .NET Framework / WPF / WF
 - :package: Building: [ParserXml](https://github.com/stillProger/ParserXML), [OrderService](https://github.com/stillProger/OrderService) and more.
 - :pencil2: VS & VS Code & JetBrains Reader
+- :memo: Email: killumexxx@gmail.com
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=stillProger&show_icons=true&theme=tokyonight&count_private=true%22%3E"/>
