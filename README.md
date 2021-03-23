@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
+![banner](https://i.artfile.me/wallpaper/27-12-2019/1920x1080/anime-naruto-uchiha-saske-chashka-1491348.jpg)
 
 ## I'm stillProger! 👋
 
