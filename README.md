@@ -4,8 +4,8 @@
 
 🎊 Hello world!
 
-- :hammer_and_pick: C# / .NET Framework, WPF, WF
-- :package: Building [ParserXml](https://github.com/stillProger/ParserXML), [OrderService](https://github.com/stillProger/OrderService) and more.
+- :hammer_and_pick: C# / .NET Framework / WPF / WF
+- :package: Building: [ParserXml](https://github.com/stillProger/ParserXML), [OrderService](https://github.com/stillProger/OrderService) and more.
 - :pencil2: VS & VS Code & JetBrains Reader
 
 
