@@ -1,4 +1,4 @@
-![banner](https://i.pinimg.com/originals/09/99/f6/0999f632bdfd403ddf8fa1d557dd2e81.jpg)
+![banner](https://pm1.narvii.com/7151/92894fecf3b7422b46b43df610b26f85d4c8f927r1-1100-638v2_hq.jpg)
 
 ## I'm stillProger! 👋
 
