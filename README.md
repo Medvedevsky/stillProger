@@ -4,7 +4,7 @@
 
 🎊 Hello world!
 
-- :hammer_and_pick: C# / T-SQL / .NET Framework / WPF / WF
+- :hammer_and_pick: C# / Js / T-SQL / .NET Framework / WPF / WF
 - :package: Building: [ParserXml](https://github.com/stillProger/ParserXML), [OrderService](https://github.com/stillProger/OrderService), [HTMLtoPDFTemplateBuilder](https://github.com/stillProger/HTMLtoPDFTemplateBuilder) and more.
 - :pencil2: VS & VS Code & JetBrains Rider & Atom
 - :memo: Email: killumexxx@gmail.com
