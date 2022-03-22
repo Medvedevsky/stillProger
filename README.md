@@ -12,6 +12,6 @@
 ## <img height="25" src="https://readme-typing-svg.herokuapp.com?color=C9D1D9&height=20&font=Helvetica&vCenter=true&lines=Some+stats:">
 
 <div>
-  <img align="left" height="155" src="https://github-readme-stats.vercel.app/api?username=stillProger&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img align="right" height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=stillProger&theme=tokyonight">
+  <img align="left" height="175" src="https://github-readme-stats.vercel.app/api?username=stillProger&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img align="right" height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=stillProger&theme=tokyonight">
 </div>
